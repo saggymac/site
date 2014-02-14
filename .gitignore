@@ -1,1 +1,5 @@
 /content/data/ghost-dev.db
+
+/npm-debug.log
+
+/content/data/ghost.db
